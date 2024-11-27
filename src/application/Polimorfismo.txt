@@ -1,0 +1,4 @@
+Polimorfismo
+
+    Mesmo metodo obtendo diferentes comportamentos para classes derivadas(Classes filhas)
+o Polimorfismo é utilizado com o conceito de herança
