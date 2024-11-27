@@ -1,4 +1,4 @@
-package entities;
+package aula11.entities;
 
 public class Eevee{
     String tipo;

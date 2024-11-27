@@ -1,7 +1,7 @@
-package application;
+package aula11.application;
 
-import entities.Eevee;
-import entities.Joelton;
+import aula11.entities.Eevee;
+import aula11.entities.Joelton;
 
 public class App{
     public static void main(String[] args) {
